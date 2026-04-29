@@ -1,8 +1,10 @@
-# 🚀 Credit Risk Analysis using Machine Learning
+# Credit Risk Analysis using Machine Learning
 
-> Predicting loan default risk using real-world financial data and modern machine learning techniques.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
+![Model](https://img.shields.io/badge/Model-XGBoost-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
----
 
 ## 📌 Project Overview
 
